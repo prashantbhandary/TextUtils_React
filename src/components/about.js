@@ -18,7 +18,9 @@ export default function about() {
       <div className="w-full md:w-1/3 p-4">
         <div className="bg-white shadow-lg rounded-lg p-6 text-center">
           <div className="mb-4">
-            <svg className="w-16 h-16 mx-auto text-indigo-500" fill="none" strokeLinecap="currentColor" strokeWidth="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path strokeLinecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 1.567-3 3.5S10.343 15 12 15s3-1.567 3-3.5S13.657 8 12 8zm0 0V5m0 14v-3"></path></svg>
+            
+            <svg className="w-16 h-16 mx-auto text-indigo-500" fill="none" strokeLinecap="currentColor" strokeWidth="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"> <path strokeLinecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 1.567-3 3.5S10.343 15 12 15s3-1.567 3-3.5S13.657 8 12 8zm0 0V5m0 14v-3"></path></svg>
+         
           </div>
           <h3 className="text-xl font-semibold mb-2">Text Analysis</h3>
           <p className="text-gray-600">
@@ -26,7 +28,6 @@ export default function about() {
           </p>
         </div>
       </div>
-
       <div className="w-full md:w-1/3 p-4">
         <div className="bg-white shadow-lg rounded-lg p-6 text-center">
           <div className="mb-4">
