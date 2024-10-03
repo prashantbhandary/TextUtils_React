@@ -29,6 +29,7 @@ function App() {
   <TextForm showalert={showalert} heading="Enter any text to analysis"/><hr/> 
   {/* <About/>
   <Review/> */}
+  {/* this is new feature */}
   <Footer/>
   </>
   );
