@@ -27,9 +27,8 @@ function App() {
   <Navbar title="Textutils" homeText='Home' aboutText='About'/>
   <Alert alert={alert}/>
   <TextForm showalert={showalert} heading="Enter any text to analysis"/><hr/> 
-  {/* <About/>
-  <Review/> */}
-  {/* this is new feature */}
+  <About/>
+  <Review/>
   <Footer/>
   </>
   );
